@@ -164,7 +164,7 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  As a versatile fullstack developer, I've successfully
+                  As a versatile fullstack developer, I&apos;ve successfully
                   delivered end-to-end web applications for a diverse client
                   base. My expertise spans both frontend and backend
                   development, creating seamless, responsive solutions that
