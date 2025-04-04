@@ -63,70 +63,81 @@ export const DATA = {
     },
   },
   work: [
+    // {
+    //   company: "JMA Wireless",
+    //   href: "https://jmawireless.com/",
+    //   badges: [],
+    //   location: "Bengaluru, Karnataka",
+    //   title: "Senior Consultant",
+    //   logoUrl:
+    //     "https://www.radisys.com/sites/default/files/2021-01/xjma-wireless-logo.jpg.pagespeed.ic.bw0ntunYhJ.jpg",
+    //   start: "January 2024",
+    //   end: "December 2024",
+    //   description:
+    //     "Engineered responsive 5G user interfaces with Angular and TypeScript, boosting performance by 20% and cutting development time by 30% through reusable components and optimization techniques, while collaborating with 5G experts for seamless integration",
+    // },
+    // {
+    //   company: "Optiv",
+    //   href: "https://optiv.com/",
+    //   badges: [],
+    //   location: "Bengaluru, Karnataka",
+    //   title: "Consultant",
+    //   logoUrl:
+    //     "https://mms.businesswire.com/media/20150603006401/en/470885/5/OPTIV_logo.jpg",
+    //   start: "April 2023",
+    //   end: "December 2023",
+    //   description:
+    //     "Led a 4-member team to build a cybersecurity vulnerability assessment platform using React and Node.js, streamlining releases by 40% with Azure DevOps CI/CD pipelines and ensuring robust API integration for scanning and reporting",
+    // },
+    // {
+    //   company: "Dover",
+    //   href: "https://dover.com/",
+    //   badges: [],
+    //   location: "Bengaluru, Karnataka",
+    //   title: "Consultant",
+    //   logoUrl:
+    //     "https://www.dovercorporation.com/images/default-source/template-graphics/logo-dover_main.png?sfvrsn=9c8c1ac8_2",
+    //   start: "April 2020",
+    //   end: "March 2023",
+    //   description:
+    //     "Developed a scalable e-commerce platform for 50,000+ users with Java, Spring Boot, and Angular, improving query performance by 25% and enhancing UI responsiveness for a superior user experience.",
+    // },
+    // {
+    //   company: "Infosys",
+    //   href: "https://infosys.com/",
+    //   badges: [],
+    //   location: "Bengaluru, Karnataka",
+    //   title: "Associate Consultant",
+    //   logoUrl:
+    //     "https://brandlogos.net/wp-content/uploads/2022/02/infosys-logo-brandlogos.net_.png",
+    //   start: "February 2019",
+    //   end: "March 2020",
+    //   description:
+    //     "Managed telecom applications for major clients like Telstra and Comcast using Node.js, ensuring reliability and security while automating testing with JUnit and Mockito to enhance release stability",
+    // },
     {
-      company: "JMA Wireless",
-      href: "https://jmawireless.com/",
-      badges: [],
-      location: "Bengaluru, Karnataka",
-      title: "Senior Consultant",
-      logoUrl:
-        "https://www.radisys.com/sites/default/files/2021-01/xjma-wireless-logo.jpg.pagespeed.ic.bw0ntunYhJ.jpg",
-      start: "January 2024",
-      end: "December 2024",
-      description:
-        "Engineered responsive 5G user interfaces with Angular and TypeScript, boosting performance by 20% and cutting development time by 30% through reusable components and optimization techniques, while collaborating with 5G experts for seamless integration",
-    },
-    {
-      company: "Optiv",
-      href: "https://optiv.com/",
-      badges: [],
-      location: "Bengaluru, Karnataka",
-      title: "Consultant",
-      logoUrl:
-        "https://mms.businesswire.com/media/20150603006401/en/470885/5/OPTIV_logo.jpg",
-      start: "April 2023",
-      end: "December 2023",
-      description:
-        "Led a 4-member team to build a cybersecurity vulnerability assessment platform using React and Node.js, streamlining releases by 40% with Azure DevOps CI/CD pipelines and ensuring robust API integration for scanning and reporting",
-    },
-    {
-      company: "Dover",
-      href: "https://dover.com/",
-      badges: [],
-      location: "Bengaluru, Karnataka",
-      title: "Consultant",
-      logoUrl:
-        "https://www.dovercorporation.com/images/default-source/template-graphics/logo-dover_main.png?sfvrsn=9c8c1ac8_2",
-      start: "April 2020",
-      end: "March 2023",
-      description:
-        "Developed a scalable e-commerce platform for 50,000+ users with Java, Spring Boot, and Angular, improving query performance by 25% and enhancing UI responsiveness for a superior user experience.",
-    },
-    {
-      company: "Infosys",
-      href: "https://infosys.com/",
-      badges: [],
-      location: "Bengaluru, Karnataka",
-      title: "Associate Consultant",
-      logoUrl:
-        "https://brandlogos.net/wp-content/uploads/2022/02/infosys-logo-brandlogos.net_.png",
-      start: "February 2019",
-      end: "March 2020",
-      description:
-        "Managed telecom applications for major clients like Telstra and Comcast using Node.js, ensuring reliability and security while automating testing with JUnit and Mockito to enhance release stability",
-    },
-    {
-      company: "Fubeus",
+      company: "Fubeus Inc",
       href: "https://fubeus.com/",
       badges: [],
       location: "Bengaluru, Karnataka",
-      title: "Junior Developer",
+      title: "Consultant",
       logoUrl:
         "https://fubeus.com/static/media/fubeus-logo-crop.e8c2f1d054d1428fc6f6.png",
       start: "October 2016",
-      end: "January 2019",
+      end: "Present",
       description:
         "Built ISeek and ISeek Merchant apps from scratch with Angular 2 and TypeScript, focusing on intuitive UI/UX design and performance optimization through rigorous testing and debugging",
+    },
+    {
+      company: "Freelancer",
+      href: "",
+      badges: [],
+      location: "Bengaluru, Karnataka",
+      title: "Digital Transformation Consultant",
+      logoUrl: "",
+      start: "March 2020",
+      end: "Present",
+      description: "",
     },
   ],
   education: [
@@ -141,7 +152,7 @@ export const DATA = {
       end: "2016",
     },
     {
-      school: "Sri Taralabalu Jagadguru PU College",
+      school: "STJ PU College",
       href: "https://www.stjabm.org/",
       degree: "Pre-University",
       logoUrl: "https://www.stjabm.org/assets/images/logo.png",
